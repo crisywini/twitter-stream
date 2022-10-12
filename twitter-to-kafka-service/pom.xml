@@ -48,6 +48,10 @@
       <artifactId>lombok</artifactId>
       <scope>provided</scope>
     </dependency>
+    <dependency>
+      <groupId>com.microservices.demo</groupId>
+      <artifactId>app-config-data</artifactId>
+    </dependency>
   </dependencies>
 
   <build>
